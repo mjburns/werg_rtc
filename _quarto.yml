@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Waterway Ecosystem Research Group"
-  subtitle: "Advancing the urban water industry using real-time control technologies"
   navbar:
     left:
       - href: index.qmd
