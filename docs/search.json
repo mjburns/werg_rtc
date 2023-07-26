@@ -7,6 +7,13 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "People involved in RTC, maybe grouped by people.\n\n1 + 1\n\n[1] 2\n\nplot(1:10)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "dummy",
